@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jldhwxlib-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jldhwxlib-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jldhwxlib-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jldhwxlib-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jldhwxlib-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jldhwxlib-wx" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

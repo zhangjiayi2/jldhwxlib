@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jldhwxlib.iml" filepath="$PROJECT_DIR$/jldhwxlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jldhwxlib-common/jldhwxlib-common.iml" filepath="$PROJECT_DIR$/jldhwxlib-common/jldhwxlib-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jldhwxlib-dao/jldhwxlib-dao.iml" filepath="$PROJECT_DIR$/jldhwxlib-dao/jldhwxlib-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jldhwxlib-model/jldhwxlib-model.iml" filepath="$PROJECT_DIR$/jldhwxlib-model/jldhwxlib-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jldhwxlib-service/jldhwxlib-service.iml" filepath="$PROJECT_DIR$/jldhwxlib-service/jldhwxlib-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jldhwxlib-web/jldhwxlib-web.iml" filepath="$PROJECT_DIR$/jldhwxlib-web/jldhwxlib-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jldhwxlib-wx/jldhwxlib-wx.iml" filepath="$PROJECT_DIR$/jldhwxlib-wx/jldhwxlib-wx.iml" />
+    </modules>
+  </component>
+</project>
